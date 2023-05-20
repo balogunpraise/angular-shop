@@ -1,0 +1,33 @@
+.form{
+    margin: 10px auto;
+    width: 70%;
+    padding: 20px;
+    background: grey;
+}
+.form h3{
+    margin-bottom: 10px;
+}
+.form-contol{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.form-control input{
+    width:100%;
+    height: 40px;
+}
+.button-control{
+    display: flex;
+    justify-content: end;
+    margin-top: 20px;
+}
+.green-button{
+    padding: 5px 10px;
+    height: 40px;
+    background: green;
+    color: white;
+    width: 150px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 5px;
+}

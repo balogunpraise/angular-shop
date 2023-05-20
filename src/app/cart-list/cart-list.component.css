@@ -1,0 +1,21 @@
+.cart-list-section{
+    padding: 20px;
+}
+.cart-list-section h2{
+    text-align: center;
+    margin-bottom: .5rem;
+}
+.cart-grid-display{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 1fr;
+    grid-gap: 1rem;
+    height: 10rem;
+}
+.cart-grid-display .left-section{
+    background-color: #fff;
+    padding: 20px;
+}
+.cart-grid-display .right-section{
+    background: none;
+}
